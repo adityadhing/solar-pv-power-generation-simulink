@@ -136,6 +136,29 @@ Change one condition at a time and record the model settings used for each test.
 4. MathWorks, “Measurements,” *Simscape Electrical Documentation*. https://www.mathworks.com/help/sps/measurements.html
 5. MathWorks, “Build and Simulate a Simple Circuit Using Specialized Power Systems,” *MATLAB & Simulink Documentation*. https://www.mathworks.com/help/sps/powersys/ug/building-and-simulating-a-simple-circuit.html
 
+## Project Screenshots
+
+### Simulink Models
+
+![Simulink model with filter](screenshots/Simulink_model_with_filter.png.png)
+
+![Simulink model without filter](screenshots/Simulink_model_without_filter.png.png)
+
+### Voltage Before and After Boosting
+
+![Voltage before boosting with filter](screenshots/voltage_before_boosting(with_filter).png.png)
+
+![Voltage before boosting without filter](screenshots/voltage_before_boosting(without_filter).png.png)
+
+![Voltage after boosting with filter](screenshots/voltage_after_boosting(with_filter).png.png)
+
+![Voltage after boosting without filter](screenshots/voltage_after_boosting(without_filter).png.png)
+
+### Output Waveforms
+
+![Output voltage with filter](screenshots/Output_voltage(with_filter).png.png)
+
+![Output voltage without filter](screenshots/Output_voltage(without_filter).png.png)
 
 ## Author
 
